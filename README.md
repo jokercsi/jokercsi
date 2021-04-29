@@ -31,6 +31,9 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/react-original-wordmark.svg"> </code>
+  <code><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+     </code>
+
   
 
 
