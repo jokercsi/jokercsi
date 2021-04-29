@@ -31,7 +31,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
 
 
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jokercsi&show_icons=true" alt="jokercsi" /></p>  
 
 
 
