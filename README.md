@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/jokercsi/jokercsi/blob/main/jibin.png" width="300px">
+<img src="https://github.com/jokercsi/jokercsi/blob/main/profile.png" width="300px">
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kim Jibin</h1>
