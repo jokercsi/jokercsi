@@ -17,7 +17,6 @@
 
 &nbsp;***Languages & Tools I Know...***
 <p align="left">
-  
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
@@ -29,8 +28,9 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-
-
+</p>
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokercsi&layout=compact&hide=html" alt="jokercsi" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jokercsi&show_icons=true" alt="jokercsi" /></p>  
 
 
