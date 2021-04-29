@@ -1,10 +1,9 @@
 <p align="center">
   
-  ![hi](https://user-images.githubusercontent.com/39941719/116569282-34954480-a944-11eb-85a7-0fa09316abd6.png)
+<img src="https://github.com/jokercsi/jokercsi/blob/main/hi.png" width="30px">, I'm Kim Jibin</h1>
 
 </p>
-<hr>![Uploading hi.png…]()
-
+<hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kim Jibin</h1>
 <h3 align="center">Software Engineer | Investor(NASDAQ, KOSPI, Bitcoin) | Data Analysis Enthusiast</h3>
 <p align="center">
