@@ -31,7 +31,7 @@
 </p>
   
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokercsi&layout=compact&hide=html" alt="jokercsi" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jokercsi&show_icons=true" alt="jokercsi" /></p>  
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jokercsi&show_icons=true" alt="jokercsi" />
 
 
 
