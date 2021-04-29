@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  
+  ![hi](https://user-images.githubusercontent.com/39941719/116569282-34954480-a944-11eb-85a7-0fa09316abd6.png)
+
 </p>
-<hr>
+<hr>![Uploading hi.png…]()
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kim Jibin</h1>
 <h3 align="center">Software Engineer | Investor(NASDAQ, KOSPI, Bitcoin) | Data Analysis Enthusiast</h3>
 <p align="center">
