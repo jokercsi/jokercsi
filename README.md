@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
 
 
 <p align="center">
@@ -8,8 +8,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kim Jibin</h1>
 <h3 align="center">Software Engineer | Investor(NASDAQ, KOSPI, Bitcoin) | Data Analysis Enthusiast</h3>
 <p align="center">
-<i class="devicon-linkedin-plain colored"></i>
 <a href="https://www.linkedin.com/in/jibin-kim-a1945a1b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jibin" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/jibin-kim-a1945a1b7/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39941719/116638460-5a9d0200-a9a1-11eb-8395-219d06b25e70.png" alt="jibin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jibin.kim.7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Kim Jibin" height="30" width="40" /></a>
 <a href="https://blog.naver.com/jokercsi1" target="blank"><img align="center" src="https://www.iconninja.com/files/971/74/321/circle-email-contacts-address-book-naver-contact-icon.png" alt="haruhara blog" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/l39oou2drgwu1ymcpmzvi70r8u38sjftmmdtskgn/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
