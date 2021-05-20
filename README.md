@@ -35,7 +35,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://github.com/jokercsi/jokercsi/blob/main/ruby.svg"> </code>
   <code>
   <a href="#"><img alt="Android Studio" title="Android Studio" height="50"
                         src="https://i.imgur.com/6nJGNMN.png" /></code>
