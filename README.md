@@ -25,7 +25,6 @@
 <p align="left">
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/jokercsi/jokercsi/blob/main/9498015201540553614.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
@@ -37,7 +36,8 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://github.com/jokercsi/jokercsi/blob/main/ruby.svg"> </code>
-  <code>
+   <code> <img height="50" src="https://github.com/jokercsi/jokercsi/blob/main/9498015201540553614.svg"> </code> 
+ <code>
   <a href="#"><img alt="Android Studio" title="Android Studio" height="50"
                         src="https://i.imgur.com/6nJGNMN.png" /></code>
 </p>
