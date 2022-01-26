@@ -3,7 +3,6 @@
 <!-- in your body -->
 <i class="devicon-ruby-plain colored"></i>
 
-
 <p align="center">
 <img src="https://github.com/jokercsi/jokercsi/blob/main/profile.png" width="300px">
 </p>
@@ -31,7 +30,7 @@
 </p>
   
 &nbsp; 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokercsi&layout=compact&hide=html" alt="jokercsi"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jokercsi&show_icons=true" alt="jokercsi"/>
 </p>
