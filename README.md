@@ -11,11 +11,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kim Jibin</h1>
 <h3 align="center">Data enthusiast | Investor (NASDAQ, KOSPI, Bitcoin) | Aoyama Gakuin University Student</h3>
 <p align="center">
-<a href="https://www.facebook.com/jibin.kim.7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Kim Jibin" height="30" width="40" /></a>
- <a href = "mailto:jokercsi@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jibin.kim.7/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1920px-2021_Facebook_icon.svg.png" alt="Kim Jibin" height="30" width="40" />
+</a>
 </p>
 </p>
-
 
 
 &nbsp;***Languages & Tools I Know...***
