@@ -30,5 +30,6 @@
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1024px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android studio"> </code>
 </p>
 &nbsp;  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokercsi&layout=compact&hide=html" alt="jokercsi" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jokercsi&show_icons=true" alt="jokercsi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokercsi&layout=compact&hide=html" alt="jokercsi"/>
+&nbsp; 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jokercsi&show_icons=true" alt="jokercsi"/>
