@@ -1,7 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
-<!-- in your body -->
-<i class="devicon-ruby-plain colored"></i>
 
 <p align="center">
 <img src="https://github.com/jokercsi/jokercsi/blob/main/profile.png" width="300px">
