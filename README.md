@@ -10,9 +10,10 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kim Jibin</h1>
 <h3 align="center">Data enthusiast | Investor (NASDAQ, KOSPI, Bitcoin) | Aoyama Gakuin University Student</h3>
+<br>
 <p align="center">
 <a href="https://www.facebook.com/jibin.kim.7/" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1920px-2021_Facebook_icon.svg.png" alt="Kim Jibin" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1920px-2021_Facebook_icon.svg.png" alt="Kim Jibin" height="50" width="50"/>
 </a>
 </p>
 </p>
