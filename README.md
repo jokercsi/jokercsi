@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kim Jibin</h1>
-<h3 align="center">Data enthusiast | Investor (NASDAQ, KOSPI, Bitcoin) | Aoyama Gakuin University Student</h3>
+<h3 align="center">Data enthusiast | Investor (NASDAQ, KOSPI) | Aoyama Gakuin University Student</h3>
 </p>
 
 
