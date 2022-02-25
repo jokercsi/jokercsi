@@ -7,7 +7,9 @@
 </p>
 
 
-&nbsp;***Languages & Tools I Know...***
+<h3 align="center">📚 Tech Stack 📚</h3>
+
+<p align="center"> Techs that I've used at least once </p>
 <p align="center">
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python"></code><code> 
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2880px-Git-logo.svg.png" alt="git"> </code>
