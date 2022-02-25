@@ -26,7 +26,13 @@
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1024px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android studio"> </code>
 </p>
   
-  
+
+<h3 align="center"> 🍒 Me 🍒 </h3>
+<p align="center">
+  <a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/jokercsi"/></a>&nbsp
+  <a href="https://www.instagram.com/y.younge/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jibin_ary/"/></a>&nbsp
+  <a href="mailto:jokercsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jokercsi@gmail.com"/></a>
+</p>
   
   
   
