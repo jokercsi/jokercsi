@@ -8,7 +8,7 @@
 
 
 &nbsp;***Languages & Tools I Know...***
-<p align="left">
+<p align="center">
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python"></code><code> 
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2880px-Git-logo.svg.png" alt="git"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png" alt="linux"> </code>
