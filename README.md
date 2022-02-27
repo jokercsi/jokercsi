@@ -17,9 +17,9 @@
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Ruby-ffb13b?style=flat-square&logo=ruby&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/PHP-ffb13b?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
-	<img src="https://img.shields.io/badge/R-ffb13b?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/Ruby-E50914?style=flat-square&logo=ruby&logoColor=white"/></a>&nbsp
+	<img src="https://img.shields.io/badge/PHP-39E09B?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
 
 <br>
   	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
