@@ -18,7 +18,9 @@
 	<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Ruby-ffb13b?style=flat-square&logo=ruby&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Php-ffb13b?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/PHP-ffb13b?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/R-ffb13b?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/Matlab-ffb13b?style=flat-square&logo=matlab&logoColor=white"/></a>&nbsp 
 
 
 <br>
