@@ -20,8 +20,6 @@
 	<img src="https://img.shields.io/badge/Ruby-ffb13b?style=flat-square&logo=ruby&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/PHP-ffb13b?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/R-ffb13b?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
-	<img src="https://img.shields.io/badge/Matlab-ffb13b?style=flat-square&logo=matlab&logoColor=white"/></a>&nbsp 
-
 
 <br>
   	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
@@ -30,6 +28,8 @@
   	<img src="https://img.shields.io/badge/SQLite-092E20?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+	<img src="https://img.shields.io/badge/Linux-#FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
+
 </p>
   
 
