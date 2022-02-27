@@ -29,19 +29,20 @@
   	<img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
-
 </p>
   
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
-  <a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/jokercsi"/></a>&nbsp
-  <a href="https://www.instagram.com/jibin_ary/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jibin_ary/"/></a>&nbsp
-  <a href="mailto:jokercsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jokercsi@gmail.com"/></a>
+  	<a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/jokercsi"/></a>&nbsp
+	<a href="https://www.instagram.com/jibin_ary/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jibin_ary/"/></a>&nbsp
+  	<a href="mailto:jokercsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jokercsi@gmail.com"/></a>
 </p>
   
   
   
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokercsi&layout=compact&hide=html" alt="jokercsi"/>  
-<img src="https://github-readme-stats.vercel.app/api?username=jokercsi&show_icons=true" alt="jokercsi"/>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokercsi&layout=compact&hide=html" alt="jokercsi"/>  
+	<img src="https://github-readme-stats.vercel.app/api?username=jokercsi&show_icons=true" alt="jokercsi"/>
+</p>
