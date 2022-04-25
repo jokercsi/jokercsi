@@ -20,8 +20,8 @@
 	<img src="https://img.shields.io/badge/Ruby-E50914?style=flat-square&logo=ruby&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/PHP-39E09B?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
-	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp 
-	<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 
 
 <br>
