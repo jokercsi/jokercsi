@@ -20,8 +20,6 @@
 	<img src="https://img.shields.io/badge/Ruby-E50914?style=flat-square&logo=ruby&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/PHP-39E09B?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
-	<img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
-	<img src="https://img.shields.io/badge/CSS-349220?&style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Vue-02318D6?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp
 
 
@@ -34,8 +32,6 @@
   	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></a>&nbsp
-
 </p>
   
 <h3 align="center">📚 Tools 📚</h3>
