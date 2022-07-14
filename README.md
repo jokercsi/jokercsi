@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jibin Kim%20&fontSize=90)
 <p align="center">
 <img src="https://github.com/jokercsi/jokercsi/blob/main/profile.png" width="300px">
 </p>
 <hr>
-<h1 align="center">Hi <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Kim Jibin</h1>
+<h1 align="center">Hi <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Jibin Kim</h1>
 <h3 align="center">Data enthusiast | Investor (NASDAQ, KOSPI) | Aoyama Gakuin University Student</h3>
 </p>
 
