@@ -35,6 +35,12 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/></a>&nbsp
+
+</p>
+  
+<h3 align="center">📚 Tools 📚</h3>
+
+<p align="center">  
 	<img src="https://aleen42.github.io/badges/src/zeplin.svg"/></a>&nbsp
 </p>
   
