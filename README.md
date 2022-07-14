@@ -39,8 +39,8 @@
 
 <p align="center">  
 	<img src="https://aleen42.github.io/badges/src/zeplin.svg"/></a>&nbsp
-	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
-
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>&nbsp
+	
 </p>
   
 
