@@ -56,7 +56,7 @@
   	<a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp
 	<a href="https://www.instagram.com/jibin_ary/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jibin_ary/"/></a>&nbsp
 	<a href="https://www.facebook.com/jibin.kim.7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp
-	<a href="https://witty-myrtle-8bc.notion.site/Blog-498929854b3d48f698fc70b7c536fb51"><img src="https://img.shields.io/badge/Miro-050038?style=?style=social&logo=Miro&logoColor=white"/></a>&nbsp
+	<a href="https://witty-myrtle-8bc.notion.site/Blog-498929854b3d48f698fc70b7c536fb51"><img src="https://img.shields.io/badge/Miro-050038?style=social&logo=Miro&logoColor=white"/></a>&nbsp
   	<a href="mailto:jokercsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jokercsi@gmail.com"/></a>
 </p>
   
