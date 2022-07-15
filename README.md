@@ -33,7 +33,7 @@
   	<img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 <br>
-<h3 align="center">👨‍💻 Tools 👨‍💻</h3>
+<h3 align="center">🛠️ Tools 🛠️</h3>
 <p align="center"> Tools that I'm familiar with </p>
 
 <p align="center">  
