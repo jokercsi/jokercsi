@@ -32,6 +32,7 @@
 </p>
   
 <h3 align="center">📚 Tools 📚</h3>
+<p align="center"> Tools that I'm familiar with </p>
 
 <p align="center">  
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
