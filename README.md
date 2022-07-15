@@ -30,8 +30,8 @@
   	<img src="https://img.shields.io/badge/SQLite-092E20?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
-  
-<h3 align="center">📚 Tools 📚</h3>
+<br>
+<h3 align="center">👨‍💻 Tools 👨‍💻</h3>
 <p align="center"> Tools that I'm familiar with </p>
 
 <p align="center">  
@@ -47,7 +47,7 @@
 	<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white"/></a>&nbsp
 </p>
   
-
+<br>
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
   	<a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp
