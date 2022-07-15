@@ -18,14 +18,16 @@
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Ruby-E50914?style=flat-square&logo=ruby&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
+	<img src="https://img.shields.io/badge/PHP-39E09B?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
+
 
 <br>
   	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
-	<img src="https://img.shields.io/badge/PHP-39E09B?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&&logo=laravel&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Vue-02318D6?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp
   	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  	<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>&nbsp
   	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/SQLite-092E20?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
@@ -48,12 +50,13 @@
 </p>
   
 <br>
-<h3 align="center"> 🍒 Me 🍒 </h3>
-<p align="center"> Link.. Click it </p>
+<h3 align="center"> 🍒 About Me 🍒 </h3>
+<p align="center"> Links </p>
 <p align="center">
   	<a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp
 	<a href="https://www.instagram.com/jibin_ary/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jibin_ary/"/></a>&nbsp
 	<a href="https://www.facebook.com/jibin.kim.7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp
+	<a href="https://witty-myrtle-8bc.notion.site/Blog-498929854b3d48f698fc70b7c536fb51"><img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white"/></a>&nbsp
   	<a href="mailto:jokercsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jokercsi@gmail.com"/></a>
 </p>
   
