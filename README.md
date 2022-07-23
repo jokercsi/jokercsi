@@ -14,15 +14,15 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/Java-DF3A01?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Ruby-E50914?style=flat-square&logo=ruby&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/PHP-39E09B?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
-
+</p>
 <p align="center"> Techs that I've used at least once </p>
-<br>
+<p align="center">
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&&logo=laravel&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Vue-02318D6?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp
