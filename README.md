@@ -10,7 +10,7 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Techs that I've used as the main </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/Java-DF3A01?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
@@ -21,7 +21,7 @@
 	<img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/PHP-39E09B?style=flat-square&logo=php&logoColor=white"/></a>&nbsp 
 
-
+<p align="center"> Techs that I've used at least once </p>
 <br>
   	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&&logo=laravel&logoColor=white"/></a>&nbsp 
