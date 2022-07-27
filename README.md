@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=JibinKim%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JibinKim%20&fontSize=70)
 <p align="center">
 <img src="https://github.com/jokercsi/jokercsi/blob/main/profile.png" width="300px">
 </p>
