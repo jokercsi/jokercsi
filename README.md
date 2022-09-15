@@ -51,13 +51,16 @@
 </p>
   
 <br>
-<h3 align="center"> 🍒 Links 🍒 </h3>
 
+
+<h3 align="center"> 🍒 Links 🍒 </h3>
+<div align="center">
 | First Header  | Second Header |
 | ------------- | ------------- |
 | <a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a> | [Content Cell](https://blog.naver.com/jokercsi1)  |
 | <a href="https://www.instagram.com/jibin_ary/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jibin_ary/"/></a>  | https://www.instagram.com/jibin_ary/  |
 
+</div>
 <p align="center">
   	<a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>&nbsp
 	<a href="https://www.instagram.com/jibin_ary/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jibin_ary/"/></a>&nbsp
