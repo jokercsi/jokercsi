@@ -57,8 +57,8 @@
 
 | Badge                                                                                                              | URL                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| <a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>&nbsp | `https://blog.naver.com/jokercsi1`  |
-| <img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white" />       | `https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white`           |
+| <a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a> | `https://blog.naver.com/jokercsi1`  |
+| <a href="https://www.instagram.com/jibin_ary/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jibin_ary/"/></a>      | `www.instagram.com/jibin_ary/`           |
 
 <p align="center">
   	<a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>&nbsp https://blog.naver.com/jokercsi1 <br>
