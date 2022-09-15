@@ -82,10 +82,12 @@
             <td align="left"><a href="mailto:jokercsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=jokercsi@gmail.com"/></a></td>
             <td align="center">jokercsi@gmail.com</td>
         </tr>
+        <tr>
+            <td align="left">PPortfolio</td>
+            <td align="center">https://jokercsi.github.io/portfolio-website/</td>
+        </tr>
     </tbody>
 </table>
-  
-  
   
 <br>
 <p align="center">
