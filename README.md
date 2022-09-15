@@ -57,7 +57,7 @@
 <table align="center">
     <thead>
         <tr>
-            <th align="left">Badge</th>
+            <th align="left">Social Media & Contact</th>
             <th align="center">URL</th>
         </tr>
     </thead>
