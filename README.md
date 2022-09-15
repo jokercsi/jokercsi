@@ -51,29 +51,23 @@
 </p>
   
 <br>
+
+<h3 align="center"> 🍒 Links 🍒 </h3>
+
 <table align="center">
     <thead>
         <tr>
-            <th align="left">Column1</th>
-            <th align="center">Column1</th>
-            <th align="right">Column1</th>
+            <th align="left">Badge</th>
+            <th align="center">URL</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="left">Column1</td>
-            <td align="center">Column1</td>
-            <td align="right">Column1</td>
+            <td align="left"><a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a></td>
+            <td align="center">https://blog.naver.com/jokercsi1</td>
         </tr>
     </tbody>
 </table>
-
-<h3 align="center"> 🍒 Links 🍒 </h3>
-
-| Badge                                                                                                              | URL                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| <a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a> | `https://blog.naver.com/jokercsi1`  |
-| <a href="https://www.instagram.com/jibin_ary/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jibin_ary/"/></a>      | `www.instagram.com/jibin_ary/`           |
 
 <p align="center">
   	<a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>&nbsp https://blog.naver.com/jokercsi1 <br>
