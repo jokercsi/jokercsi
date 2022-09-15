@@ -57,7 +57,7 @@
 <table align="center">
     <thead>
         <tr>
-            <th align="left">Social Media & Contact</th>
+            <th align="left">WEB</th>
             <th align="center">URL</th>
         </tr>
     </thead>
