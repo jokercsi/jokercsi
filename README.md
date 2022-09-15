@@ -51,7 +51,7 @@
 </p>
   
 <br>
-<table>
+<table align="center">
     <thead>
         <tr>
             <th align="left">Column1</th>
