@@ -79,10 +79,6 @@
             <td align="center">https://witty-myrtle-8bc.notion.site/Blog-498929854b3d48f698fc70b7c536fb51</td>
         </tr>
         <tr>
-            <td align="left">Portfolio</td>
-            <td align="center">https://jokercsi.github.io/portfolio-website/</td>
-        </tr>
-        <tr>
             <td align="left"><a href="mailto:jokercsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=jokercsi@gmail.com"/></a></td>
             <td align="center">jokercsi@gmail.com</td>
         </tr>
