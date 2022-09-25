@@ -63,6 +63,10 @@
     </thead>
     <tbody>
         <tr>
+            <td align="left">![Badge](https://img.shields.io/badge/{ label }-{ message }-{ color }.svg?{ style(optional) })</td>
+            <td align="center">https://blog.naver.com/jokercsi1</td>
+        </tr>
+        <tr>
             <td align="left"><a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a></td>
             <td align="center">https://blog.naver.com/jokercsi1</td>
         </tr>
