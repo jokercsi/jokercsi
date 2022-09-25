@@ -63,7 +63,7 @@
     </thead>
     <tbody>
         <tr>
-            <td align="left"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=Blog&color=FF5722"/></td>
+            <td align="left"><img src="https://img.shields.io/static/v1?label=Blog&message=Blog&color=#FF5722"/></td>
             <td align="center">https://blog.naver.com/jokercsi1</td>
         </tr>
         <tr>
