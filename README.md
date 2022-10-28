@@ -67,7 +67,7 @@
             <td align="center">https://jibinary.tistory.com/</td>
         </tr>
         <tr>
-            <td align="left"><a href="https://blog.naver.com/jokercsi1"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a></td>
+            <td align="left"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a></td>
             <td align="center">https://blog.naver.com/jokercsi1</td>
         </tr>
         <tr>
