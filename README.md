@@ -20,6 +20,7 @@
   	<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>&nbsp
   	<img src="https://img.shields.io/badge/MySQL-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Vue-02318D6?style=for-the-badge&logo=vue.js&logoColor=white"/></a>&nbsp
+	<img src="https://img.shields.io/badge/PHP-39E09B?style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&&logo=laravel&logoColor=white"/></a>&nbsp 
 </p>
 <p align="center"> Techs that I've used at least once </p>
@@ -28,11 +29,10 @@
 	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp 
-  	<img src="https://img.shields.io/badge/SQLite-092E20?style=for-the-badge&logo=sqlite&logoColor=white"/></a>&nbsp 
 	<br>
+  	<img src="https://img.shields.io/badge/SQLite-092E20?style=for-the-badge&logo=sqlite&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Ruby-E50914?style=for-the-badge&logo=ruby&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=r&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/PHP-39E09B?style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>&nbsp 
 </p>
 <br>
