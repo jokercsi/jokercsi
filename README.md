@@ -31,11 +31,14 @@
 	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a>&nbsp 
   	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp 
+  	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>&nbsp 
 	<br>
   	<img src="https://img.shields.io/badge/SQLite-092E20?style=for-the-badge&logo=sqlite&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Ruby-E50914?style=for-the-badge&logo=ruby&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=r&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>&nbsp
+  	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>&nbsp 
+
 </p>
 <br>
 <h3 align="center">🛠️ Tools 🛠️</h3>
