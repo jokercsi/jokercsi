@@ -16,12 +16,14 @@
   	<img src="https://img.shields.io/badge/Java-DF3A01?style=for-the-badge&logo=java&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
   	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp
+  	<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp
 	<br>
   	<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>&nbsp
   	<img src="https://img.shields.io/badge/MySQL-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Vue-02318D6?style=for-the-badge&logo=vue.js&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/PHP-39E09B?style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&&logo=laravel&logoColor=white"/></a>&nbsp 
+  	<img src="https://img.shields.io/badge/WordPress-#21759B?style=for-the-badge&logo=WordPress&logoColor=white"/></a>&nbsp
 </p>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
@@ -46,7 +48,6 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/></a>&nbsp
 	<br>
-  	<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/></a>&nbsp
