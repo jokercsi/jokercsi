@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/Vue-02318D6?style=for-the-badge&logo=vue.js&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/PHP-39E09B?style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&&logo=laravel&logoColor=white"/></a>&nbsp 
-  	<img src="https://img.shields.io/badge/Wordpress-#21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>&nbsp
+  	<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>&nbsp
 </p>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
