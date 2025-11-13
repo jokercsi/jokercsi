@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JibinKim%20&animation=scaleIn&fontSize=70)
 <p align="center">
-<img src="https://github.com/jokercsi/jokercsi/blob/main/profile.png" width="300px">
 </p>
 <hr>
 <h1 align="center">Hi <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Jibin Kim</h1>
