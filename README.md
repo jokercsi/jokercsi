@@ -78,19 +78,11 @@
         </tr>
         <tr>
             <td align="left"><a href="https://www.instagram.com/jibin_ary/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jibin_ary/"/></a></td>
-            <td align="center">https://www.instagram.com/jibin_ary/</td>
-        </tr>
-        <tr>
-            <td align="left"><a href="https://www.facebook.com/jibin.kim.7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a></td>
-            <td align="center">https://www.facebook.com/jibin.kim.7/</td>
-        </tr>
-        <tr>
-            <td align="left"><a href="https://witty-myrtle-8bc.notion.site/Blog-498929854b3d48f698fc70b7c536fb51"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a></td>
-            <td align="center">https://witty-myrtle-8bc.notion.site/Blog-498929854b3d48f698fc70b7c536fb51</td>
+            <td align="center">https://www.instagram.com/lambda.bin/</td>
         </tr>
         <tr>
             <td align="left"><a href="mailto:jokercsi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=jokercsi@gmail.com"/></a></td>
-            <td align="center">jokercsi@gmail.com</td>
+            <td align="center">contact@earningcalendar.com</td>
         </tr>
     </tbody>
 </table>
